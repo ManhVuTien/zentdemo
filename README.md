@@ -1,1 +1,2 @@
-thay doi readme
+thay doi readme 
+ga
