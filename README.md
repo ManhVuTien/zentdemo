@@ -1,1 +1,1 @@
-K co huong dan dau
+thay doi readme
